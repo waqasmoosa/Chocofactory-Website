@@ -1,3 +1,3 @@
 # Chocofactory-Website
-This is a sample website built for showcasing purposes, to showcase HTML and CSS skills and to showcase web development and design skills.
+This is a responsive website is a personal project, I built using HTML, CSS3 and Bootstrap 4 to showcase my programming skills and as a portfolio piece.
 
